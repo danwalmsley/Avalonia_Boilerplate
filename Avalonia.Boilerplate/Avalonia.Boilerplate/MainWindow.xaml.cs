@@ -27,7 +27,7 @@ namespace Avalonia.Boilerplate {
             w2.MinWidth = 200;
             w2.MinHeight = 200;
             w2.Show();
-            w2.Hide();
+            // w2.Hide();
             w.Title = "w";
             w.Show(w2);
             
