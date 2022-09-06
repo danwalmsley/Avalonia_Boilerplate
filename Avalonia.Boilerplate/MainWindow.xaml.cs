@@ -24,11 +24,7 @@ namespace Avalonia.Boilerplate {
         protected override void OnApplyTemplate(TemplateAppliedEventArgs e) {
             base.OnApplyTemplate(e);
 
-            var titleBar = this.FindDescendantOfType<TitleBar>();
-            if (titleBar != null)
-            {
-                titleBar.IsVisible = false;
-            }
+            
 
         }
 

@@ -7,7 +7,7 @@
         MinWidth="1080"
         MinHeight="600"
         Title="Service Studio Project Neo"
-        ExtendClientAreaChromeHints="PreferSystemChrome"
+        ExtendClientAreaChromeHints="NoChrome"
         ExtendClientAreaToDecorationsHint="True"
         Padding="40"
 
